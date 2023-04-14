@@ -1,0 +1,3 @@
+[submodule "thirdparty/libgo"]
+	path = thirdparty/libgo
+	url = https://github.com/yyzybb537/libgo.git
